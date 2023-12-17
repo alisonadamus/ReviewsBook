@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.alisonadamus.reviewsBook"},{"l":"com.alisonadamus.reviewsBook.display"},{"l":"com.alisonadamus.reviewsBook.functional"},{"l":"com.alisonadamus.reviewsBook.instances"}];updateSearchResults();

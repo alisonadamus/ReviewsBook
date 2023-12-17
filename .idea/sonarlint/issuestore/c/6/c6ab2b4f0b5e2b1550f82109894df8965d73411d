@@ -1,0 +1,20 @@
+
+W
+java:S1141P"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ïË’ Ç1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê÷°ùÿÿÿÿ8ÓğàŸÇ1
+D
+java:S2189O""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8øË’ Ç1
+O
+java:S26897"-Do not use a FileOutputStream in append mode.(ğ¢×²ùÿÿÿÿ8ÚğàŸÇ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(²Á8ÜğàŸÇ1
+]	java:S125("<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8âğàŸÇ1
+]	java:S125C"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8äğàŸÇ1
+Z
+java:S1128"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8•Í– Ç1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8•Í– Ç1
+S
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8•Í– Ç1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8•Í– Ç1
